@@ -1,0 +1,6 @@
+
+
+
+
+
+{"data": "ofdm", "bandit": "CCS", "problem": "ofdm", "beta": "Heuristic", "m": 12, "delta": 0.05, "epsilon": 0.000000000000001, "n_das": 10, "sigma": 1, "n_simu": 50, "mode": "recommendation",  "verbose": 1, "plot": 1, "plot_rounds": 0, "plot_step": 1000, "small_K": 40, "small_N": 20, "alpha": 2.0, "eta": 1.0,  "T_init": 1, "k1_diff": 0.001, "is_greedy": 1, "path_to_grn": "../expansion-network/examples/models/epilepsy/", "grn_name": "GRN/report_model1_solution.net",  "use_chernoff": "none"}

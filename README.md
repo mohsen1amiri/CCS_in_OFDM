@@ -24,7 +24,7 @@ The code also includes classic synthetic settings (linear/logistic/etc.), but de
 ├── utils.py                            # Plotting, LaTeX helpers
 ├── compare_complexity_constants.py     # LinGapE vs UGapE complexity utilities (linear case)
 ├── constants.py                        # Paths for Data/Results
-└── requirements (2).txt                # Pinned dependencies
+└── requirements.txt                # Pinned dependencies
 ```
 
 > **Paths:** results are written to `../Results/`, generated instances to `../Data/`, and DR data (if used) to `../DR_Data/` (see `constants.py`). Create those folders if you run from a different working directory.

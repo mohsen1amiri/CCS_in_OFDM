@@ -185,11 +185,7 @@ The three presets `args_S.json`, `args_M.json`, `args_L.json` define OFDM experi
 
 ## 📝 Citation
 
-If you use this code, please cite:
-
-> **Challenger‑Based Combinatorial Bandits for Subcarrier Selection in OFDM Systems**  
-> Mohsen Amiri, *et al.* (Year).  
-> *(Add venue / arXiv / DOI when available.)*
+If you use this code, please cite main paper:
 
 ```bibtex
 @article{amiri2025challenger,

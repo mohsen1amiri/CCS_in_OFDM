@@ -192,19 +192,13 @@ If you use this code, please cite:
 > *(Add venue / arXiv / DOI when available.)*
 
 ```bibtex
-@inproceedings{amiri202X_ofdm_ccs,
-  title     = {Challenger-Based Combinatorial Bandits for Subcarrier Selection in OFDM Systems},
-  author    = {Amiri, Mohsen and ...},
-  booktitle = {...},
-  year      = {202X}
+@article{amiri2025challenger,
+  title={Challenger-Based Combinatorial Bandits for Subcarrier Selection in OFDM Systems},
+  author={Amiri, Mohsen and Venktesh, V and Magn{\'u}sson, Sindri},
+  journal={arXiv preprint arXiv:2510.04559},
+  year={2025}
 }
 ```
-
----
-
-## 📄 License
-
-Add a license (e.g., MIT) in `LICENSE`. If omitted, the default is “all rights reserved.”
 
 ---
 
